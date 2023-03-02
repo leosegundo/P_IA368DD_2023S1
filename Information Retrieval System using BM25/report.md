@@ -1,9 +1,12 @@
 # Building a Simple Information Retrieval System using BM25 and GPT-3 and evaluated in the CISI collection.
 
+
 ## How to test the IR system
 You need to check the `dataset_folder_path` and use correct path to CISI dataset.
 the  ***rank_bm25*** libary is required 
  -- may use pip install rank_bm25
+
+Link to Google colab environment <https://colab.research.google.com/drive/1NOgMuxJKGEdnPGh_-ZKRZV9WE2HPBBg1?usp=sharing>
  
 ### -- implementation details
 The code is in python.
