@@ -1,0 +1,1 @@
+link para o colab <https://colab.research.google.com/drive/1xTPWkhw1znHc9GzPgUfafl176MJ9BwAA?usp=sharing>
